@@ -1,0 +1,6 @@
+html, body {
+    height: 100%; 
+    margin: 0; /* Remove default margins */
+    background: linear-gradient(135deg, #58b6b1dd, #4a9b43) !important;
+}
+

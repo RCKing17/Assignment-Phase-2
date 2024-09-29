@@ -1,0 +1,30 @@
+[
+  {
+    "username": "super",
+    "pwd": "123"
+  },
+  {
+    "username": "groupadmin",
+    "pwd": "456"
+  },
+  {
+    "username": "user2",
+    "pwd": "U2"
+  },
+  {
+    "username": "user3",
+    "pwd": "U3"
+  },
+  {
+    "username": "user5",
+    "pwd": "U5"
+  },
+  {
+    "username": "user51",
+    "pwd": "U51"
+  },
+  {
+    "username": "user45",
+    "pwd": "U45"
+  }
+]
